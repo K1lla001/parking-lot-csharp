@@ -1,0 +1,15 @@
+/home/leejieun/RiderProjects/Test-NTT-Solution/Test-NTT-Solution/bin/Debug/net6.0/Test-NTT-Solution
+/home/leejieun/RiderProjects/Test-NTT-Solution/Test-NTT-Solution/bin/Debug/net6.0/Test-NTT-Solution.deps.json
+/home/leejieun/RiderProjects/Test-NTT-Solution/Test-NTT-Solution/bin/Debug/net6.0/Test-NTT-Solution.runtimeconfig.json
+/home/leejieun/RiderProjects/Test-NTT-Solution/Test-NTT-Solution/bin/Debug/net6.0/Test-NTT-Solution.dll
+/home/leejieun/RiderProjects/Test-NTT-Solution/Test-NTT-Solution/bin/Debug/net6.0/Test-NTT-Solution.pdb
+/home/leejieun/RiderProjects/Test-NTT-Solution/Test-NTT-Solution/obj/Debug/net6.0/Test-NTT-Solution.csproj.AssemblyReference.cache
+/home/leejieun/RiderProjects/Test-NTT-Solution/Test-NTT-Solution/obj/Debug/net6.0/Test-NTT-Solution.GeneratedMSBuildEditorConfig.editorconfig
+/home/leejieun/RiderProjects/Test-NTT-Solution/Test-NTT-Solution/obj/Debug/net6.0/Test-NTT-Solution.AssemblyInfoInputs.cache
+/home/leejieun/RiderProjects/Test-NTT-Solution/Test-NTT-Solution/obj/Debug/net6.0/Test-NTT-Solution.AssemblyInfo.cs
+/home/leejieun/RiderProjects/Test-NTT-Solution/Test-NTT-Solution/obj/Debug/net6.0/Test-NTT-Solution.csproj.CoreCompileInputs.cache
+/home/leejieun/RiderProjects/Test-NTT-Solution/Test-NTT-Solution/obj/Debug/net6.0/Test-NTT-Solution.dll
+/home/leejieun/RiderProjects/Test-NTT-Solution/Test-NTT-Solution/obj/Debug/net6.0/refint/Test-NTT-Solution.dll
+/home/leejieun/RiderProjects/Test-NTT-Solution/Test-NTT-Solution/obj/Debug/net6.0/Test-NTT-Solution.pdb
+/home/leejieun/RiderProjects/Test-NTT-Solution/Test-NTT-Solution/obj/Debug/net6.0/Test-NTT-Solution.genruntimeconfig.cache
+/home/leejieun/RiderProjects/Test-NTT-Solution/Test-NTT-Solution/obj/Debug/net6.0/ref/Test-NTT-Solution.dll
